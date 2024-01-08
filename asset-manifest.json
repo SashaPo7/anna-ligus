@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/anna-ligus/static/css/main.b643c954.css",
+    "main.js": "/anna-ligus/static/js/main.492247d0.js",
+    "static/media/fon.png": "/anna-ligus/static/media/fon.91ee07a18d08488d8a97.png",
+    "static/media/fon-3xl.png": "/anna-ligus/static/media/fon-3xl.93de2629ac0d8cffef90.png",
+    "static/media/fon-xl.png": "/anna-ligus/static/media/fon-xl.93de2629ac0d8cffef90.png",
+    "static/media/fon-lg.png": "/anna-ligus/static/media/fon-lg.2acb3dd9cec43d7632cf.png",
+    "index.html": "/anna-ligus/index.html",
+    "main.b643c954.css.map": "/anna-ligus/static/css/main.b643c954.css.map",
+    "main.492247d0.js.map": "/anna-ligus/static/js/main.492247d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b643c954.css",
+    "static/js/main.492247d0.js"
+  ]
+}
