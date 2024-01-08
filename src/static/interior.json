@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "img": "../img/interior1.png"
+  },
+  {
+    "id": 2,
+    "img": "../img/interior2.png"
+  },
+  {
+    "id": 3,
+    "img": "../img/interior3.png"
+  },
+  {
+    "id": 4,
+    "img": "../img/interior4.png"
+  },
+  {
+    "id": 5,
+    "img": "../img/interior5.png"
+  },
+  {
+    "id": 6,
+    "img": "../img/interior6.png"
+  },
+  {
+    "id": 7,
+    "img": "../img/interior7.png"
+  }
+]

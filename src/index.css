@@ -1,13 +1,147 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+
+  font-family: 'Spline Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: #F2F2F2;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+p, a{
+  font-family: 'Spline Sans', sans-serif;
+  font-size: 14px;
+}
+
+@media(min-width:1024px) {
+  p, a {
+    font-size: 16px;
+  }
+}
+
+@media(min-width:1440px) {
+  a {
+    font-size: 18px;
+  }
+}
+
+@media(min-width:1920px) {
+  p, a {
+    font-size: 20px;
+  }
+}
+
+h1, h2, h4, nav, .awards {
+  font-family: 'Bebas Neue', sans-serif;
+  text-transform: uppercase;
+}
+
+h2, .awards{
+  font-size: 48px;
+}
+
+@media(min-width:1440px){
+  h2, .awards{
+    font-size: 64px;
+  }
+}
+
+h3, .text{
+  font-family: 'Spline Sans', sans-serif;
+  font-size: 18px;
+  text-transform: uppercase;
+  
+  line-height: 120%;
+  letter-spacing: -0.36px;
+}
+
+@media(min-width:1440px) {
+  h3, .text{
+    font-size: 20px;
+  }
+}
+
+h4 {
+ text-transform: uppercase; 
+ font-size: 24px;
+ line-height: 100%;
+ letter-spacing: 0.48px;
+} 
+
+li{
+  margin: 0;
+  padding: 0;
+}
+
+@media(min-width:1440px) {
+  li {
+    font-size: 18px;
+  }
+}
+
+@media(min-width:1920px) {
+  li {
+    font-size: 20px;
+  }
+}
+
+nav{
+  color: #212121;
+  font-size: 65px;
+  height: 65px;
+}
+
+.active{
+  display: block;
+}
+
+.hidden{
+  display: none;
+}
+
+@media(min-width:1024px){
+  .interior:nth-child(3),
+  .interior:nth-child(4) {
+    width: 952px;
+  }
+}
+
+@media(min-width:1440px) {
+
+  .interior:nth-child(3),
+  .interior:nth-child(4) {
+    width: 988px;
+  }
+}
+
+@media(min-width:1920px) {
+
+  .interior:nth-child(3),
+  .interior:nth-child(4) {
+    width: 1172px;
+  }
+}
+
+@media(min-width:640px){
+  .magazines{
+    order: 1;
+  }
+  .magazines:first-child{
+    order: 0;
+  }
+  .magazines:nth-child(2){
+    order: -1;
+  }
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+

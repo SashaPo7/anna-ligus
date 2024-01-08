@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "img": "../img/light1.png"
+  },
+  {
+    "id": 2,
+    "img": "../img/light2.png"
+  },
+  {
+    "id": 3,
+    "img": "../img/light3.png"
+  },
+  {
+    "id": 4,
+    "img": "../img/light4.png"
+  },
+  {
+    "id": 5,
+    "img": "../img/light5.png"
+  },
+  {
+    "id": 6,
+    "img": "../img/light6.png"
+  },
+  {
+    "id": 7,
+    "img": "../img/light7.png"
+  },
+  {
+    "id": 8,
+    "img": "../img/light8.png"
+  },
+  {
+    "id": 9,
+    "img": "../img/light9.png"
+  },
+  {
+    "id": 10,
+    "img": "../img/light10.png"
+  }
+]

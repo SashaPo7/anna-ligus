@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "img1": "../img/galery34.png"
+  },
+  {
+    "id": 2,
+    "img1": "../img/galery2.png"
+  },
+  {
+    "id": 3,
+    "img1": "../img/galery3.png"
+  },
+  {
+    "id": 4,
+    "img1": "../img/galery4.png"
+  },
+  {
+    "id": 5,
+    "img1": "../img/galery5.png"
+  },
+  {
+    "id": 6,
+    "img1": "../img/galery6.png"
+  },
+  {
+    "id": 7,
+    "img1": "../img/galery7.png",
+    "img2": "../img/galery8.png"
+  },
+  {
+    "id": 8,
+    "img1": "../img/galery9.png",
+    "img2": "../img/galery10.png"
+  },
+  {
+    "id": 9,
+    "img1": "../img/galery11.png",
+    "img2": "../img/galery12.png"
+  },
+  {
+    "id": 10,
+    "img1": "../img/galery13.png"
+  },
+  {
+    "id": 11,
+    "img1": "../img/galery14.png"
+  },
+  {
+    "id": 12,
+    "img1": "../img/galery15.png"
+  },
+  {
+    "id": 13,
+    "img1": "../img/galery16.png"
+  },
+  {
+    "id": 14,
+    "img1": "../img/galery17.png"
+  },
+  {
+    "id": 15,
+    "img1": "../img/galery18.png"
+  },
+  {
+    "id": 16,
+    "img1": "../img/galery19.png",
+    "img2": "../img/galery20.png"
+  },
+  {
+    "id": 17,
+    "img1": "../img/galery21.png",
+    "img2": "../img/galery22.png"
+  },
+  {
+    "id": 18,
+    "img1": "../img/galery23.png",
+    "img2": "../img/galery24.png"
+  },
+  {
+    "id": 20,
+    "img1": "../img/galery25.png"
+  },
+  {
+    "id": 21,
+    "img1": "../img/galery26.png"
+  },
+  {
+    "id": 22,
+    "img1": "../img/galery27.png"
+  },
+  {
+    "id": 23,
+    "img1": "../img/galery28.png"
+  },
+  {
+    "id": 24,
+    "img1": "../img/galery29.png"
+  },
+  {
+    "id": 25,
+    "img1": "../img/galery30.png"
+  },
+  {
+    "id": 26,
+    "img1": "../img/galery31.png"
+  },
+  {
+    "id": 27,
+    "img1": "../img/galery32.png"
+  },
+  {
+    "id": 28,
+    "img1": "../img/galery33.png"
+  }
+]
